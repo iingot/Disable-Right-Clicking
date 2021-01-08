@@ -1,1 +1,0 @@
-<script language="JavaScript" id="disable right clicking"> document.oncontextmenu=function(){return false}; if(navigator.appName=="Netscape"){ document.captureEvents(Event.MOUSEDOWN); document.onmousedown= function(e){if(e.which==2||e.which==3)return false} }; </script> 
